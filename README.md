@@ -3,7 +3,7 @@
  
 ### Installation ###
  
-Add Scafold to your composer.json file to require Scafold :
+Add Articles to your composer.json file to require Articles :
 ```
     require : {
         "laravel/framework": "6.0.*",
