@@ -1,0 +1,20 @@
+{
+    "name": "sm/articles",
+    "description": "Plateforme de gestion des articles",
+    "type": "librairy",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "sm\\articles\\": "src"
+        }
+       
+    },
+    "authors": [
+        {
+            "name": "SIE",
+            "email": "ahmedsie3@gmail.com"
+        }
+    ],
+   
+    "minimum-stability": "dev"
+}
