@@ -7,7 +7,7 @@ Add Scafold to your composer.json file to require Scafold :
 ```
     require : {
         "laravel/framework": "6.0.*",
-        "AhmedSIE/articles": "dev-master"
+        "ahmedsie/articles": "dev-master"
     }
 ```
  
@@ -18,7 +18,7 @@ Update Composer :
  
 The next required step is to add the service provider to config/app.php :
 ```
-    'AhmedSIE\articles\ArticlesServiceProvider',
+    'Ahmedsie\Articles\ArticlesServiceProvider',
 ```
  
 ### Publish ###
