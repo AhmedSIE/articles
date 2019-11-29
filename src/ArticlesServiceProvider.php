@@ -1,6 +1,6 @@
 <?php
 
-namespace Sm\Articles;
+namespace Ahmedsie\Articles;
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\ServiceProvider;
