@@ -1,11 +1,11 @@
 {
-    "name": "AhmedSIE/articles",
+    "name": "ahmedsie/articles",
     "description": "Plateforme de gestion des articles",
     "type": "librairy",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "AhmedSIE\\articles\\": "src"
+            "ahmedsie\\articles\\": "src"
         }
        
     },
