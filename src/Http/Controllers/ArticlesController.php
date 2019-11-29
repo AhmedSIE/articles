@@ -1,10 +1,10 @@
 <?php
 
-namespace Sm\Articles\Http\Controllers;
+namespace Ahmedsie\Articles\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Sm\Articles\Models\Articles;
-use Sm\Articles\Models\Categories;
+use Ahmedsie\Articles\Models\Articles;
+use Ahmedsie\Articles\Models\Categories;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\File;
 

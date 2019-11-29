@@ -1,6 +1,6 @@
 <?php
 
-namespace Sm\Articles\Models;
+namespace Ahmedsie\Articles\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

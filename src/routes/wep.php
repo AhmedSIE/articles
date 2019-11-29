@@ -1,6 +1,6 @@
 <?php
 
-Route::group(['namespace' => 'Sm\Articles\Http\Controllers'], function () {
+Route::group(['namespace' => 'Ahmedsie\Articles\Http\Controllers'], function () {
     //backend
     //Route Articles 
     Route::get('articles/liste',                     'ArticlesController@index')->name('listearticles');
